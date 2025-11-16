@@ -1,0 +1,1 @@
+nombre	apellido	edad	mascota	nBeatriz	Ramirez	22	perro	lexaPaula	Gonzalez	21	perro	juanAlicia	silvestre	52	perro	rex
